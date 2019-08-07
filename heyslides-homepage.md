@@ -16,7 +16,7 @@ page_sections:
   headline: 'Millions of educators make learning more personal with videos. '
   background_image: ''
   image:
-    image: "/uploads/2019/08/07/TSH_Campaign_WORKING_02 (1).jpg"
+    image: ''
     alt_text: ''
   cta:
     enabled: true
