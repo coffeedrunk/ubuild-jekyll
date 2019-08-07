@@ -12,12 +12,11 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  content: ''
-  headline: Millions of educators make learning more personal with videos. Heyslides
-    is a simpler, concise, more human way to use video in your classroom.
-  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
+  content: Heyslides is a simpler, concise, more human way to use video in your classroom.
+  headline: 'Millions of educators make learning more personal with videos. '
+  background_image: ''
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2019/08/07/TSH_Campaign_WORKING_02 (1).jpg"
     alt_text: ''
   cta:
     enabled: true
