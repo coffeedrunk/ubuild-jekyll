@@ -12,17 +12,17 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  content: 'Millions of educators make learning more personal with videos. Heyslides
-    is a simpler, concise, more human way to use video in your classroom. '
-  headline: Easily record lessons, demonstrations, and slide presentations.
+  content: ''
+  headline: Millions of educators make learning more personal with videos. Heyslides
+    is a simpler, concise, more human way to use video in your classroom.
   background_image: ''
   image:
     image: ''
     alt_text: ''
   cta:
-    enabled: false
+    enabled: true
     url: ''
-    button_text: ''
+    button_text: Sign Up For Free
 published: false
 
 ---
