@@ -17,7 +17,7 @@ page_sections:
     is a simpler, concise, more human way to use video in your classroom.
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
   cta:
     enabled: true
