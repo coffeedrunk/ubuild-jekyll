@@ -9,6 +9,9 @@ page_sections:
   - link: ''
     link_text: ''
   logo: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2019/08/07/heyslides_gradient_sml.png"
 published: false
 
 ---
